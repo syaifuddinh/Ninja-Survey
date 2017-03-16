@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AJAX Angular</title>
+</head>
+<body ng-app="root" ng-controller="transmit">
+<form name="sender">
+	<input type="hidden" name="slogan[]" value="Hyaaaa">
+	<input type="hidden" name="slogan[]" value="Yee yee"> <input type="hidden" name="slogan[]" value="Wuayyyyaaaaa">
+	<input type="checkbox" value="printer" name="gadget[]">
+	<input type="checkbox" value="laptop" name="gadget[]">
+	<input type="checkbox" value="computer" name="gadget[]">
+	<input type="submit" name="submit" value="SEND">
+</form>
+<div id="wrapper"></div>
+</body>
+<script src="js/angular.min.js"></script>
+<script>
+	var root = angular.module("root", []);
+	root.controller("transmit", function($http){
+		document.sender.submit.onclick = function(e){
+			e.preventDefault();
+			data = new FormData(document.sender);
+			console.log(data.getAll("gadget"));
+			var req = new XMLHttpRequest();
+			req.onload = function(){
+				document.getElementById("wrapper").innerText = this.responseText;
+			}
+			req.open("POST", "http://localhost/post-data/index.php");
+			req.send(data);
+		}
+	});
+</script>
+</html>

@@ -1,0 +1,47 @@
+@media only screen and (max-width: 768px) {
+	.dashboard-content .summary-panel, .dashboard-content .dashboard-card{
+		width: 95%;
+	}
+	.summary-panel{
+		margin:0.5cm;
+	}
+	.dashboard-card{
+		margin:0 0.5cm;
+	}
+	body div .dashboard-content{
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	.whitecard{
+		transform:scale(.9, .9);
+	}
+	.pd-10, .jumbo-header{
+		padding: 0.55cm;
+	}
+	.pd-30{
+		padding: 1.55cm;
+	}
+	.mg-top-10{
+		margin-top:0.6cm;
+	}
+	.mg-top-half, .whitecard{
+		margin-top: 0.25cm;
+	}
+	.mg-right-10, .whitecard{
+		margin-right: 0.55cm;
+	}
+	.small-mg-btm, .whitecard, .mg-btm-3{
+		margin-bottom: 0.155cm;
+	}
+	.jumbotron{
+		margin:0.55cm;
+		font-size: 0.85cm;
+	}
+}
+
+@media only screen and (max-width: 480px){
+	.whitecard{
+		transform:scale(.8, .8);	
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "name": "easy-survey",
+  "version": "1.0.0",
+  "description": "Help anyone data scientist to collecting data survey and view report of it",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "keywords": [
+    "easy-survey"
+  ],
+  "author": "Didin",
+  "license": "ISC"
+}

@@ -1,0 +1,13 @@
+@keyframes slideUp {
+	from {height: auto;}
+	to {height: 0;}
+}
+
+@keyframes slideDown {
+	from {height: 0;overflow:hidden;}
+	to {height: auto;}
+}
+@keyframes loader-fadeout{
+	from {opacity: .7;}
+	to {opacity: 0;}
+}

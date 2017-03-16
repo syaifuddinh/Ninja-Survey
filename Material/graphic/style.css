@@ -1,0 +1,121 @@
+.body{
+    background-color: #e6e6fa;
+}   
+/*-------------------header-------------*/
+
+.h1{
+	text-align: center;
+    background-color: #2d7baf; 
+    padding: 20px 100px;
+    margin-top:5px;
+    text-align: center;
+    color: #fff;
+}
+
+/*----------------------tengah-------------------*/
+.div{
+    color: white;
+    background-color: #2d7baf;
+    font-size: 32px;
+    text-align: center; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-right: 900px;
+    margin-left: 50px;
+    margin-top: 100px;
+
+}
+
+.divv{
+    color: white;
+    background-color: #2d7baf;
+    font-size: 32px;
+    text-align: center; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-right: 460px;
+    margin-left: 460px;
+    margin-top: -363px;
+
+}
+
+.divvv{
+    color: white;
+    background-color: #2d7baf;
+    font-size: 32px;
+    text-align: center; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-right: 50px;
+    margin-left: 900px;
+    margin-top: -363px;
+
+}
+
+.div1{
+    color: white;
+    background-color: #e6e6fa;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2d7baf;
+    text-align: center;
+    padding-top: 1cm;
+    padding-bottom: 7cm;
+    margin-right: 900px;
+    margin-left: 50px;
+    margin-top: 0px;
+    position: relative;
+}
+
+.div11{
+    color: white;
+    background-color: #e6e6fa;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2d7baf;
+    text-align: center;
+    padding-top: 1cm;
+    padding-bottom: 7cm;
+    margin-right: 460px;
+    margin-left: 460px;
+    margin-top: 0px;
+    position: relative;
+}
+
+.div111{
+    color: white;
+    background-color: #e6e6fa;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2d7baf;
+    text-align: center;
+    padding-top: 1cm;
+    padding-bottom: 7cm;
+    margin-right: 50px;
+    margin-left: 900px;
+    margin-top: 0px;
+    position: relative;
+}
+
+/*-----------------------------footer------------------*/
+#footer {
+    background-color: #2E2E2E;
+    padding: 30px 0;
+    color: #fff;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.footer-content {
+    width: 390px;
+    margin: 0 auto;
+}
+
+.footer-content > div {
+    margin-bottom: 40px;
+}
+
+.footer-content > div > p:first-child {
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}

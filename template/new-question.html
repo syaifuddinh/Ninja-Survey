@@ -1,0 +1,50 @@
+<div class="new-question small-mg-btm">
+	<form class="row" action="pertanyaan/update">
+		<div class="container" layout="vertical">
+				<!--  Pertanyaan disini -->
+				<div class="space-between container">
+					<div class="row">
+						<div class="btn-circle flex-center blood mg-right-1 font-4" button-control="remove-question">x</div>
+						<div class="btn-circle flex-center turtle-green font-4" button-control="create-new-answer">+</div>
+					</div>
+					<div class="container question-name mg-top-1" contenteditable="true" name="nama-pertanyaan">
+						<input type="text" class="smoothtext question-text" name="question" placeholder="Isi pertanyaan disini....">
+					</div>
+				</div>
+
+				<div class="input-container container row mg-top-1 answer-type-handler">
+					<div class="linebreak pd-2 dark-label font-3 flex-center">Tipe jawaban</div>
+					<div class="answer-type-board capital pd-2 font-3" style="background: #e6e6e6" contenteditable="true" name="nama-tipe-jawaban" content-type="option" data-list="checklist,pilihan ganda,isian">
+						<select name="answerType" class="answer-type" id="">
+						<option value="">~ Tipe jawaban ~</option>
+						<option value="checklist">checklist</option>
+						<option value="pilihan-ganda">pilihan ganda</option>
+						<option value="isian">isian</option>
+					</select>
+					</div>
+				</div>
+			
+				<div class="answer-box">
+					<div class="answer-label">
+						<div class="separator-board">
+							<hr>
+							<div class="separator">Jawaban</div>
+						</div>
+					</div>
+
+					<div class="answer-list space-between">
+					<!--  Answer this -->
+					</div>
+					<div class="input-container">
+						<button class="btn waterboom save-question">Simpan Pertanyaan</button>
+					</div>
+
+					<hr>	
+				</div>
+		</div>
+
+		<div class="row">
+			
+		</div>	
+	</form>
+</div>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Easy - survey</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/animation.css" type="text/css">
+	<link rel="stylesheet" href="css/media-screen.css" type="text/css">
+</head>
+<body ng-app="root">
+	<div class="nav-board">
+		<div class="nav-content">
+			<div class="nav-leftside space-around">
+				<div class="nav-content-list icon-back" button-control="backward">
+					<i class="fa fa-reply"></i>
+				</div>
+			</div>
+			<div class="nav-rightside space-around">
+				<div class="nav-content-list space-around logout-wrapper">
+					<div class="linebreak" button-control="logout">Keluar</div>
+					<div class="slash">/</div>
+				</div>
+				<div class="nav-content-list" button-control="homepage">
+					<i class="fa fa-home"></i>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div ng-view>
+		
+	</div>
+
+	<!--.-.-.-.- Footer -.-.-.-->
+	<div class="row footer mg-top-half kageshibari">
+		<div class="container flex-center">
+			<div class="footer-content">
+				<p>&copy; Copyright 2017 Easy Survey</p>
+			</div>
+		</div>
+	</div>
+	<!-- -.-.-.-.-.-.-.-.-.-.- -->
+
+	<div class="template hidden">
+		<newquestioncategory></newquestioncategory>
+		<newquestion></newquestion>
+		<newquestionrow></newquestionrow>
+		<viewdata></viewdata>
+		<newactivemenu></newactivemenu>
+		<formview></formview>
+	</div>
+	<!-- Javascript dependencies -->
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<script type="text/javascript" src="js/angular-route.min.js"></script>
+	<script type="text/javascript" src="js/awesomplete.js"></script>
+	<script type="text/javascript" src="controller/db-init.js"></script>
+	<script type="text/javascript" src="controller/root.js"></script>
+	<script type="text/javascript" src="controller/DBCommand.js"></script>
+	<script type="text/javascript" src="helper/servant.js"></script>
+	<script type="text/javascript" src="helper/interaction.js"></script>
+	<script type="text/javascript" src="helper/view-handling.js"></script>
+	<script type="text/javascript" src="helper/server.js"></script>
+	<script type="text/javascript" src="helper/collecting-servant.js"></script>
+	<script type="text/javascript" src="helper/question-servant.js"></script>
+	<script type="text/javascript" src="helper/form-handling.js"></script>
+	<script type="text/javascript" src="helper/insert-survey.js"></script>
+	<script type="text/javascript" src="helper/insert-user.js"></script>
+	<script type="text/javascript" src="controller/dashboard-controller.js"></script>
+	<script type="text/javascript" src="controller/login-controller.js"></script>
+	<script type="text/javascript" src="controller/question-controller.js"></script>
+	<script type="text/javascript" src="controller/report-controller.js"></script>
+	<script type="text/javascript" src="controller/responden-controller.js"></script>
+	<script type="text/javascript" src="controller/survey-controller.js"></script>
+	<script type="text/javascript" src="controller/user-controller.js"></script>
+	<script type="text/javascript" src="controller/route.js"></script>
+	<script type="text/javascript" src="controller/directive.js"></script>
+</body>
+</html>

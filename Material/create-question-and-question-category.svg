@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="create-question-and-question-category.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.15808659"
+     inkscape:cx="195.2722"
+     inkscape:cy="615.06594"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="671"
+     inkscape:window-height="728"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="false">
+    <sodipodi:guide
+       position="673.17269,6.7093624"
+       orientation="0,1"
+       id="guide4508" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d5f6ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -67.146554,-2.1421868 0,1879.2086868 1570.716254,0 0,-1879.2086868 -1570.716254,0 z"
+       id="rect4136"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#9955ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4139"
+       width="336.3808"
+       height="58.588848"
+       x="28.645977"
+       y="67.46347"
+       ry="16.162441" />
+    <rect
+       y="67.46347"
+       x="385.22983"
+       height="58.588848"
+       width="217.1828"
+       id="rect4141"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5599ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       ry="15.152288" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="40.767807"
+       y="102.81881"
+       id="text4145"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4147"
+         x="40.767807"
+         y="102.81881">CREATE QUESTION CATEGORY</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4149"
+       y="102.81881"
+       x="396.34149"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="102.81881"
+         x="396.34149"
+         id="tspan4151"
+         sodipodi:role="line">CREATE QUESTION</tspan></text>
+    <rect
+       y="238.68088"
+       x="29.029692"
+       height="1037.7512"
+       width="1371.5056"
+       id="rect4153"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:52.46260452px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="72.049423"
+       y="313.12564"
+       id="text4155"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4157"
+         x="72.049423"
+         y="313.12564">1</tspan></text>
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff6600;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4159"
+       cx="88.893417"
+       cy="293.93274"
+       r="36.573948" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="145.46196"
+       y="305.04443"
+       id="text4161"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4163"
+         x="145.46196"
+         y="305.04443">SARANA DAN PRASARANA</tspan></text>
+    <path
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.01495659"
+       d="m 135.68404,321.77039 554.53478,0"
+       id="path4167"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4169"
+       d="m 715.29087,262.77733 0,769.94257"
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.19594777" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4171"
+       y="284.39685"
+       x="745.83313"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="284.39685"
+         x="745.83313"
+         id="tspan4173"
+         sodipodi:role="line">BAGAIMANA SUASANA DI PDAM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1018.5593"
+       y="366.71948"
+       id="text4175"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4177"
+         x="1018.5593"
+         y="366.71948">JAWABAN</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4179"
+       d="m 1005.8317,361.32305 -257.69336,0"
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:0.69188607" />
+    <path
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:0.70848691"
+       d="m 1377.8024,361.32305 -270.2076,0"
+       id="path4181"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.53197259;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4183"
+       width="21.486263"
+       height="21.486263"
+       x="746.02826"
+       y="396.08212" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4189"
+       y="413.05432"
+       x="779.49384"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.61458969px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="413.05432"
+         x="779.49384"
+         id="tspan4191"
+         sodipodi:role="line">PUAS</tspan></text>
+    <rect
+       y="432.45197"
+       x="746.02826"
+       height="21.486263"
+       width="21.486263"
+       id="rect4193"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.53197259;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.61458969px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="779.49384"
+       y="449.42416"
+       id="text4195"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4197"
+         x="779.49384"
+         y="449.42416">TIDAK PUAS</tspan></text>
+    <rect
+       y="396.08212"
+       x="1216.0774"
+       height="21.486263"
+       width="21.486263"
+       id="rect4199"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.53197259;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.61458969px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1249.5428"
+       y="413.05432"
+       id="text4201"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4203"
+         x="1249.5428"
+         y="413.05432">SANGAT PUAS</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.53197259;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4205"
+       width="21.486263"
+       height="21.486263"
+       x="1216.0774"
+       y="432.45197" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4207"
+       y="449.42416"
+       x="1249.5428"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.61458969px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="449.42416"
+         x="1249.5428"
+         id="tspan4209"
+         sodipodi:role="line">PUAS BANGET</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.07688534"
+       d="m 1376.5807,508.8057 -624.27092,0"
+       id="path4211"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5fd35f;fill-opacity:1;fill-rule:nonzero;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4213"
+       cx="1375.2758"
+       cy="269.41406"
+       r="18.435333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.09754181px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d7f4e3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1363.1202"
+       y="278.83911"
+       id="text4215"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4217"
+         x="1363.1202"
+         y="278.83911">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="746.55115"
+       y="578.09113"
+       id="text4219"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4221"
+         x="746.55115"
+         y="578.09113">BAGAIMANA KEBERSIHAN LINGKUNGAN DI PDAM</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4223"
+       y="650.92529"
+       x="1018.5593"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="650.92529"
+         x="1018.5593"
+         id="tspan4225"
+         sodipodi:role="line">JAWABAN</tspan></text>
+    <path
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:0.69188607"
+       d="m 1005.8317,645.52884 -257.69336,0"
+       id="path4227"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4229"
+       d="m 1377.8024,645.52884 -270.2076,0"
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:0.70848691" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4259"
+       d="m 1376.5807,793.01149 -624.27092,0"
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.07688534" />
+    <circle
+       r="18.435333"
+       cy="563.10834"
+       cx="1375.2758"
+       id="circle4261"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5fd35f;fill-opacity:1;fill-rule:nonzero;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4263"
+       y="572.53339"
+       x="1363.1202"
+       style="font-style:normal;font-weight:normal;font-size:29.09754181px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d7f4e3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="572.53339"
+         x="1363.1202"
+         id="tspan4265"
+         sodipodi:role="line">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="755.03058"
+       y="733.99426"
+       id="text4267"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4269"
+         x="755.03058"
+         y="733.99426">BELUM ADA JAWABAN APAPUN</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4280"
+       y="959.49359"
+       x="1018.5593"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="959.49359"
+         x="1018.5593"
+         id="tspan4282"
+         sodipodi:role="line">JAWABAN</tspan></text>
+    <path
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:0.69188607"
+       d="m 1005.8317,954.09708 -257.69336,0"
+       id="path4284"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4286"
+       d="m 1377.8024,954.09708 -270.2076,0"
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:0.70848691" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4312"
+       d="m 1374.9993,1155.3478 -624.27093,0"
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.07688534" />
+    <g
+       id="g4324"
+       transform="matrix(0.86666675,0,0,0.96666669,195.88411,171.08015)">
+      <rect
+         y="340.72684"
+         x="1350.5258"
+         height="31.628237"
+         width="104.37318"
+         id="rect4320"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:transform-center-x="4.2760209e-005"
+         inkscape:transform-center-y="3.4263977"
+         d="m 1376.0074,388.16922 -5.9346,-10.27917 -5.9347,-10.27918 11.8693,0 11.8694,0 -5.9347,10.27918 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.6179939"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="6.8527846"
+         sodipodi:r1="13.705569"
+         sodipodi:cy="374.46365"
+         sodipodi:cx="1376.0074"
+         sodipodi:sides="3"
+         id="path4322"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         sodipodi:type="star" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1410.8103"
+       y="513.89148"
+       id="text4328"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4330"
+         x="1412.5681"
+         y="513.89148">BUAT JAWABAN </tspan><tspan
+         sodipodi:role="line"
+         x="1410.8103"
+         y="526.39148"
+         id="tspan4332">BARU</tspan></text>
+    <g
+       id="g4423"
+       transform="translate(0,41.116711)">
+      <circle
+         r="36.372471"
+         cy="1179.8322"
+         cx="1348.9443"
+         id="path4334"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5599ff;fill-opacity:1;fill-rule:nonzero;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4340"
+         y="1201.5752"
+         x="1321.7449"
+         style="font-style:normal;font-weight:normal;font-size:64.58321381px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1201.5752"
+           x="1321.7449"
+           id="tspan4342"
+           sodipodi:role="line">+</tspan></text>
+    </g>
+    <circle
+       r="18.435333"
+       cy="-750.65198"
+       cx="1131.6609"
+       id="circle4301"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4303"
+       y="-741.22693"
+       x="1119.5054"
+       style="font-style:normal;font-weight:normal;font-size:29.09754181px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d7f4e3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"><tspan
+         y="-741.22693"
+         x="1119.5054"
+         id="tspan4305"
+         sodipodi:role="line">+</tspan></text>
+    <circle
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="circle4307"
+       cx="1339.6511"
+       cy="-542.66174"
+       r="18.435333" />
+    <text
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.09754181px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d7f4e3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1327.4956"
+       y="-533.23669"
+       id="text4309"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4311"
+         x="1327.4956"
+         y="-533.23669">+</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:1.6206944;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4319"
+       width="629.82129"
+       height="42.922798"
+       x="755.86047"
+       y="832.43365"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.25163841px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="772.91565"
+       y="859.86792"
+       id="text4321"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4323"
+         x="772.91565"
+         y="859.86792">Isi pertanyaan disini....</tspan></text>
+    <rect
+       ry="0"
+       y="885.95801"
+       x="945.38629"
+       height="43.410141"
+       width="304.53781"
+       id="rect4331"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:1.13335156;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.89869589;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4333"
+       width="190.45668"
+       height="43.644794"
+       x="-947.06982"
+       y="886.48602"
+       ry="0"
+       transform="scale(-1,1)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4339"
+       y="913.63593"
+       x="766.91565"
+       style="font-style:normal;font-weight:normal;font-size:20.25163841px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="913.63593"
+         x="766.91565"
+         id="tspan4341"
+         sodipodi:role="line">Tipe pertanyaan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.25163841px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="970.91779"
+       y="913.63593"
+       id="text4343"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4345"
+         x="970.91779"
+         y="913.63593">Checklist</tspan></text>
+    <g
+       id="g4386"
+       transform="translate(0,178.69954)">
+      <rect
+         rx="7.9070592"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5599ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.90129733;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4347"
+         width="191.5723"
+         height="43.642193"
+         x="-945.95032"
+         y="912.72601"
+         ry="7.9070592"
+         transform="scale(-1,1)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4349"
+         y="940.5199"
+         x="817.52081"
+         style="font-style:normal;font-weight:normal;font-size:20.25163841px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="940.5199"
+           x="817.52081"
+           id="tspan4351"
+           sodipodi:role="line">SAVE</tspan></text>
+    </g>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.89637321;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4356"
+       width="221.11346"
+       height="37.399487"
+       x="755.49841"
+       y="975.98004"
+       ry="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4358"
+       y="999.81488"
+       x="777.48785"
+       style="font-style:normal;font-weight:normal;font-size:17.41115952px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="999.81488"
+         x="777.48785"
+         id="tspan4360"
+         sodipodi:role="line">Isi jawaban disini....</tspan></text>
+    <rect
+       ry="0"
+       y="1024.9258"
+       x="755.49841"
+       height="37.399487"
+       width="221.11346"
+       id="rect4362"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.89637321;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.41115952px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="777.48785"
+       y="1048.7606"
+       id="text4364"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4366"
+         x="777.48785"
+         y="1048.7606">Isi jawaban disini....</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.89637321;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4368"
+       width="221.11346"
+       height="37.399487"
+       x="1154.877"
+       y="1024.9258"
+       ry="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4370"
+       y="1048.7606"
+       x="1176.8665"
+       style="font-style:normal;font-weight:normal;font-size:17.41115952px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1048.7606"
+         x="1176.8665"
+         id="tspan4372"
+         sodipodi:role="line">Isi jawaban disini....</tspan></text>
+    <rect
+       ry="0"
+       y="977.33966"
+       x="1154.877"
+       height="37.399487"
+       width="221.11346"
+       id="rect4380"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.89637321;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.41115952px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1176.8665"
+       y="1001.1745"
+       id="text4382"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4384"
+         x="1176.8665"
+         y="1001.1745">Isi jawaban disini....</tspan></text>
+    <g
+       id="g4478"
+       transform="translate(-44.729082,101.21036)">
+      <rect
+         ry="0"
+         rx="7.1799517"
+         y="491.30078"
+         x="967.8382"
+         height="33.367264"
+         width="116.31522"
+         id="rect4428"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.84238219;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4430"
+         y="514.89264"
+         x="978.18896"
+         style="font-style:normal;font-weight:normal;font-size:21.06669998px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="514.89264"
+           x="978.18896"
+           id="tspan4432"
+           sodipodi:role="line">Checklist</tspan></text>
+      <rect
+         transform="scale(-1,1)"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1.0285331;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4438"
+         width="174.37506"
+         height="33.181114"
+         x="-966.90271"
+         y="491.39386"
+         rx="0"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:21.06669998px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="810.55927"
+         y="514.89264"
+         id="text4440"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4442"
+           x="810.55927"
+           y="514.89264">Tipe jawaban</tspan></text>
+    </g>
+    <g
+       id="g4452"
+       transform="translate(-51.438444,-187.29222)">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.84238219;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4454"
+         width="116.31522"
+         height="33.367264"
+         x="967.8382"
+         y="491.30078"
+         rx="7.1799517"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:21.06669998px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="978.18896"
+         y="514.89264"
+         id="text4456"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4458"
+           x="978.18896"
+           y="514.89264">Checklist</tspan></text>
+      <rect
+         ry="0"
+         rx="10.763892"
+         y="491.39386"
+         x="-966.90271"
+         height="33.181114"
+         width="174.37506"
+         id="rect4460"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1.0285331;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         transform="scale(-1,1)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4462"
+         y="514.89264"
+         x="810.55927"
+         style="font-style:normal;font-weight:normal;font-size:21.06669998px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="514.89264"
+           x="810.55927"
+           id="tspan4464"
+           sodipodi:role="line">Tipe jawaban</tspan></text>
+    </g>
+    <g
+       id="g4510"
+       transform="translate(0,6)">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4502"
+         width="336.3808"
+         height="58.588848"
+         x="28.645977"
+         y="161.39453"
+         ry="16.162441" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="42.767807"
+         y="196.74988"
+         id="text4504"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4506"
+           x="42.767807"
+           y="196.74988">DELETE QUESTION CATEGORY</tspan></text>
+    </g>
+  </g>
+</svg>

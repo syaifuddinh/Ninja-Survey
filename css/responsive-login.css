@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px){
+	#login-dashboard .header h1{
+		transform: scale(.6, .6);
+	}
+	#login-dashboard .header{
+		padding:.6cm;
+		margin-bottom: 0.8cm;
+	}
+	
+}
+@media screen and (max-width: 480px){
+	#login-dashboard .header{
+		margin-bottom: 0.2cm;
+	}
+
+	#login-dashboard .form_wrapper{
+		transform: scale(.7, .7);
+	}
+}

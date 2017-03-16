@@ -1,0 +1,153 @@
+*{
+	*{
+	padding:0;
+	margin:0;
+	-webkit-padding-start:0;
+	-webkit-margin-start:0;
+	-webkit-margin-end:0;
+	-webkit-padding-end:0;
+	-webkit-padding-before:0;
+	-webkit-margin-before:0;
+	-webkit-padding-after:0;
+	-webkit-margin-after:0;
+}
+
+}
+#login-dashboard {
+	font-family:"Trebuchet MS", "Myriad Pro", Arial, sans-serif;
+	font-size:14px;
+	background:#fff url(../images/bg.gif) repeat top left;
+	color:#333;
+	text-shadow:1px 1px 1px #fff;
+	position: absolute;	
+	width: 100%;
+	height: 100%;
+	top:0px;
+	left: -0px;
+}
+#login-dashboard .header{
+	background: white;
+	box-shadow: 0 .1cm 3px rgba(0, 0, 0, .3);
+	padding: 1cm;
+	margin-bottom: 1cm;
+}
+#login-dashboard h1{
+	font-size:56px;
+	text-align: center;
+	-webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
+
+#login-dashboard a:hover{
+	color:#222;
+}
+#login-dashboard p{
+	padding:5px 0px;
+}
+#login-dashboard .wrapper{
+	width:100%;
+	margin:0 auto;
+	min-height:550px;
+}
+#login-dashboard .box{
+	width:49%;
+}
+
+#login-dashboard .clear{
+	clear:both;
+}
+
+/* Form Style */
+#login-dashboard .form_wrapper{
+	background:#fff;
+	border:1px solid #ddd;
+	margin:0 auto;
+	width:350px;
+	border-radius: 10px;
+	font-size:16px;
+	box-shadow:1px 1px 7px #ccc;
+}
+#login-dashboard .form_wrapper h3{
+	-webkit-margin-before: 0;
+	padding:20px 30px 20px 30px;
+	background-color:#00f;
+	color:#fff;
+	font-size:25px;
+	border-bottom:1px solid #ddd;
+	border-left-top-radius: 10px;
+	border-right-top-radius: 10px;
+}
+#login-dashboard .form_wrapper form{
+	display:none;
+	background:#fff;
+}
+#login-dashboard .form_wrapper .column{
+	width:47%;
+	float:left;
+}
+#login-dashboard form.active{
+	display:block;
+}
+#login-dashboard form.login{
+	width:350px;
+}
+
+#login-dashboard .form_wrapper a{
+	text-decoration:none;
+	color:#777;
+	font-size:12px;
+}
+#login-dashboard .form_wrapper a:hover{
+	color:#000;
+}
+#login-dashboard .form_wrapper label{
+	display:block;
+	padding:10px 30px 0px 30px;
+	margin:10px 0px 0px 0px;
+}
+#login-dashboard .form_wrapper input[type="text"],
+#login-dashboard .form_wrapper input[type="password"]{
+	border: solid 1px #E5E5E5;
+	background: #FFFFFF;
+	margin: 5px 30px 0px 30px;
+	padding: 9px;
+	display:block;
+	font-size:16px;
+	width:76%;
+	box-shadow: 0px 0px 8px #f0f0f0;
+}
+#login-dashboard .form_wrapper input[type="text"]:focus,
+#login-dashboard .form_wrapper input[type="password"]:focus{
+	background:#feffef;
+}
+#login-dashboard .bottom{
+	background-color:#00f;
+	border-top:1px solid #ddd;
+	margin-top:20px;
+	clear:both;
+	color:#fff;
+	text-shadow:1px 1px 1px #000;
+}
+
+#login-dashboard .form_wrapper input[type="submit"] {
+	background: #e3e3e3;
+	border: 1px solid #ccc;
+	color: #333;
+	font-family: "Trebuchet MS", "Myriad Pro", sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 8px 0 9px;
+	text-align: center;
+	width: 150px;
+	cursor:pointer;
+	float:right;
+	margin:15px 20px 10px 10px;
+	text-shadow: 0px 1px 0px #fff;
+	border-radius: 4px;
+	box-shadow: 0px 0px 2px #fff inset;
+}
+#login-dashboard .form_wrapper input[type="submit"]:hover {
+	background: #d9d9d9;
+	box-shadow: 0px 0px 2px #eaeaea inset;
+	color: #222;
+}
